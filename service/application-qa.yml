@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: learn-microservices-service
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+  
+learn-microservices-service:
+ greeting: "Olá"
+ default-value: "Mundo"
+
