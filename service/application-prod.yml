@@ -9,6 +9,6 @@ management:
         - '*'
   
 learn-microservices-service:
- greeting: "Cia"
+ greeting: "Pronto"
  default-value: "Mundo"
 
